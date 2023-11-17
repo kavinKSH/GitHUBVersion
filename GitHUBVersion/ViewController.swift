@@ -18,6 +18,9 @@ class ViewController: UIViewController {
     func checkMessages() -> Bool {
         return true
     }
+    override func viewDidAppear(_ animated: Bool) {
+//
+    }
 
 }
 
