@@ -15,7 +15,9 @@ class ViewController: UIViewController {
         print("Future- 1")
         print("Future- 3")
     }
-
+    func checkMessages() -> Bool {
+        return true
+    }
 
 }
 
